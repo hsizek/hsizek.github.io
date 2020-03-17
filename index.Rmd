@@ -35,6 +35,7 @@ As of 03/14/2020, all of my publications are on [my Google Scholar profile](http
 The federal government posts regulation proposals and changes to regulations.gov. For most of these documents, there is a window for public comment. To increase the awareness of this, I am developing a series of twitter bots that will post titles and links to regulations that are open for public comment. Hopefully this will act as a mechanism for residents of the US to become more engaged in our political system. 
 
 Use of the API for [regulations.gov](https://www.regulations.gov/) requires the following disclaimers found on the [API terms of services page](https://www.regulations.gov/apiOverview?page=termsOfService): 
+
 - "Regulations.gov and the Federal government cannot verify and are not responsible for the accuracy or authenticity of the data or analyses derived from the data after the data has been retrieved from Regulations.gov."
 - "This product uses the Regulations.gov Data API but is neither endorsed nor certified by Regulations.gov."
 
