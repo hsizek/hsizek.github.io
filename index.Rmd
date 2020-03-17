@@ -13,7 +13,7 @@ Well, I'm Herbert Sizek!
 
 I'm a PhD student at Indiana University studying Ecology in the Department of Biology and Complex Systems and Networks in the Department of Informatics. My research is at the intersection of Agriculture, Ecology, and Network Science focusing on how management practices and policies influence the ecologic stability of landscape. 
 
-I run, I bike, I hike slowly, much to my sibling's enmity. 
+I run, I bike, I hike. 
 
 ## Current Research Projects
 
@@ -32,13 +32,18 @@ As of 03/14/2020, all of my publications are on [my Google Scholar profile](http
 ## Other Project(s)
 
 ### Regulatory Twitter Bots
-The federal government posts regulation proposals and changes to regulations.gov. For most of these documents, there is a window for public comment. To increase the awareness of this, I am developing a series of twitter bots that will post titles and links to regulations that are open for public comment. Hopefully this will act as a mechanism for residents of the US to become more engaged in our political system.  
+The federal government posts regulation proposals and changes to regulations.gov. For most of these documents, there is a window for public comment. To increase the awareness of this, I am developing a series of twitter bots that will post titles and links to regulations that are open for public comment. Hopefully this will act as a mechanism for residents of the US to become more engaged in our political system. 
 
+Use of the API for [regulations.gov](https://www.regulations.gov/) requires the following disclaimers found on the [API terms of services page](https://www.regulations.gov/apiOverview?page=termsOfService): 
+- "Regulations.gov and the Federal government cannot verify and are not responsible for the accuracy or authenticity of the data or analyses derived from the data after the data has been retrieved from Regulations.gov."
+- "This product uses the Regulations.gov Data API but is neither endorsed nor certified by Regulations.gov."
 
 ## Contacting me
 e-mail: hsizek(at)iu.edu
 
 twitter: [\@EcoSysHerb](https://twitter.com/EcoSysHerb)
+
+GitHub: [hsizek](https://github.com/hsizek)
 
 &nbsp;
 <p style="text-align: right;">Compiled on `r format(Sys.Date(), '%m/%d/%y')`</p>
