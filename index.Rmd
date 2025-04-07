@@ -13,31 +13,18 @@ Well, I'm Herbert Sizek!
 
 I'm a PhD student at Indiana University studying Ecology in the Department of Biology and Complex Systems and Networks in the Department of Informatics. My research is at the intersection of Agriculture, Ecology, and Network Science focusing on how management practices and policies influence the ecologic stability of landscape. 
 
-I run, I bike, I hike. 
+You might see me around town playing old-time or Irish music on a Hammered Dulcimer. I usually play on a dulcimer made by Daniel Leroy Von Antwerp. If this name is familular, you're seeped in Dulcimer lore. The relationship to the modern dulcimer scene is that [Bill Robinson's](https://www.youtube.com/watch?v=SzzygOZ9lEA) first instrument (the one his dad played) was made by Von Antwerp.    
 
 ## Current Research Projects
+### Crop Rotation Modeling
 
-### Disease Dynamics in Spatially Structured Populations
-Agricultural crops are prone to diseases under our current management strategies. Growers attempt to manage disease through different means such as chemical application, planting different crop varieties, altering crop rotation schedules, and other management strategies. I'm interested in adapting ecological and evolutionary models to gleam the implications of different management practices over the long term. My current focus is on looking at the impact of different fixed population structure on disease distribution and evolution. 
+Crop rotations and cover crops have been touted as a mechanism to improve and maintain soil health. In the Midwest, we have seen widespread adoption of a three year crop rotation schedule, soybeans, corn, and fallow/cover crop. More complicated crop rotations have been suggested and, to an extent, tested to differing effects. However the number of crop rotation schedules is enormous and can vary in effectiveness dependent on the conditions at a specific site, such as the soil type and quality, disease concerns, hardiness zones, etc.. I'm interested in how crop rotations differ between fields and when individual fields transition between crop rotations. 
 
-### Crop Rotation Cycle Constraint
-Crop rotations and cover crops have been touted as a mechanism to improve and maintain soil health. In the Midwest, we have seen widespread adoption of a three year crop rotation schedule, soybeans, corn, and fallow/cover crop. More complicated crop rotations have been suggested and, to an extent, tested to differing effects. However the number of crop rotation schedules is enormous and can vary in effectiveness dependent on the conditions at a specific site, such as the soil type and quality, disease concerns, hardiness zones, etc.. I'm interested in how these ecologic factors constrain the potential crop rotation schedules.
-
-### Boolean Network Implementations
-I help others impliment and investigate properties of Boolean Networks. Most recently, I've worked on helping clean and analize some Boolean Networks generated from neuronal data.
+### Agricultural Field Stability through Time
+Through time, individual agricultural fields can be consolidated or divided, boarders shifted slightly, depending on various whims. Our ability to track individual changes in agricultural fields is mediated through our ability to consistently segment agricultural fields. I am interested in working at this juncture of determining the differences between stability of the segmentation versus the stability of the agricultural fields. This work can both enhance our understanding of the segmentation process as well as enhance our undersanding of changes in field shape and structure.
 
 ## Publications
-As of 03/14/2020, all of my publications are on [my Google Scholar profile](https://scholar.google.com/citations?user=G0kkNvkAAAAJ&hl=en&oi=ao).
-
-## Other Project(s)
-
-### Regulatory Twitter Bots
-The federal government posts regulation proposals and changes to regulations.gov. For most of these documents, there is a window for public comment. To increase the awareness of this, I am developing a series of twitter bots that will post titles and links to regulations that are open for public comment. Hopefully this will act as a mechanism for residents of the US to become more engaged in our political system. 
-
-Use of the API for [regulations.gov](https://www.regulations.gov/) requires the following disclaimers found on the [API terms of services page](https://www.regulations.gov/apiOverview?page=termsOfService): 
-
-- "Regulations.gov and the Federal government cannot verify and are not responsible for the accuracy or authenticity of the data or analyses derived from the data after the data has been retrieved from Regulations.gov."
-- "This product uses the Regulations.gov Data API but is neither endorsed nor certified by Regulations.gov."
+All of my publications are on [my Google Scholar profile](https://scholar.google.com/citations?user=G0kkNvkAAAAJ&hl=en&oi=ao).
 
 ## Contacting me
 e-mail: hsizek(at)iu.edu
