@@ -17,16 +17,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Google Scholar", "https://scholar.google.com/citations?user=G0kkNvkAAAAJ"),
+    ("GitHub", "https://github.com/hsizek"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("BlueSky", "https://bsky.app/profile/herbertsizek.bsky.social"),
+    ("LinkedIn", "https://www.linkedin.com/in/herbert-sizek-6418a8125/"),
 )
 
 DEFAULT_PAGINATION = False
