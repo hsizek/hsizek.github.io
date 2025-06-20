@@ -1,13 +1,12 @@
----
-title: "Herbert's Website"
-output: 
-  html_document:
-    theme: simplex
-    toc: true
-    toc_float: 
-      collapsed: false
+Title: Home
+Date: 2025-04-07 00:00
+Modified: 2025-04-07 20:00
+Tags: home
+Category: home
+Slug: home
+Authors: Herbert Sizek
+Summary: Home Page
 
----
 ## Who Am I?
 Well, I'm Herbert Sizek!
 
@@ -38,7 +37,3 @@ e-mail: hsizek(at)iu.edu
 twitter: [\@EcoSysHerb](https://twitter.com/EcoSysHerb)
 
 GitHub: [hsizek](https://github.com/hsizek)
-
-&nbsp;
-<p style="text-align: right;">Compiled on `r format(Sys.Date(), '%m/%d/%y')`</p>
-&nbsp;
