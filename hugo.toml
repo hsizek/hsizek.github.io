@@ -1,4 +1,4 @@
-baseURL = 'https://herbert.farm/'
+baseURL = 'https://hsizek.github.io'
 locale = 'en-us'
 title = "Herbert Sizek"
 copyright = "Herbert Sizek"
@@ -23,6 +23,9 @@ sectionPagesMenu = 'main'
     featured_image = "/img/default-cover.jpg"
     mainSections = ["research","books"]
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [ananke.social.follow]
 new_window_icon = false
