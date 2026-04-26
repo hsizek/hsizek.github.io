@@ -1,0 +1,4 @@
+"Boys of Blue Hill" -> "Harvest Home"
+"Boys of Blue Hill" -> "Stack of Barley"
+
+"Paddy O'Brien's" -> "Few Bob"

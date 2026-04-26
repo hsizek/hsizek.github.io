@@ -1,0 +1,46 @@
+baseURL = 'https://herbert.farm/'
+locale = 'en-us'
+title = "Herbert Sizek"
+copyright = "Herbert Sizek"
+theme = 'ananke'
+sectionPagesMenu = 'main'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$']]
+          inline = [['$','$']]
+[params]
+    math=true
+    site_logo = "img/HJS.svg"
+    private = true
+    cover_dimming_class = "bg-black-0"
+    omit_header_text = true
+    custom_css = ["css/custom.css"]
+    featured_image = "/img/default-cover.jpg"
+    mainSections = ["research","books"]
+
+
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "github",
+  "linkedin"
+]
+
+[ananke.social.share]
+icons = true
+sharetext = true
+networks = [
+  "github",
+  "linkedin"
+]
+
+[ananke.social.github]
+    username = "hsizek"
+
+[ananke.social.linkedin]
+    username = "herbert-sizek-6418a8125"
