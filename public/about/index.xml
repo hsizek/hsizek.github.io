@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Herbert Sizek</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on Herbert Sizek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Herbert Sizek</copyright>
+    <lastBuildDate>Mon, 13 Apr 2026 17:29:08 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 13 Apr 2026 17:29:08 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;hiiii&#34;&gt;HIIII&lt;/h1&gt;&#xA;&lt;p&gt;Goodday. You have stumbled upon the website of Herbert.&lt;/p&gt;&#xA;&lt;p&gt;I do things.&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-realm&#34;&gt;Research Realm:&lt;/h2&gt;&#xA;&lt;p&gt;I do some different pieces of research. Two questions I think about regularly are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How do we improve data quality and data aggregation in Agricultural settings?&lt;/li&gt;&#xA;&lt;li&gt;How do we model discrete actions and behaviors discretely?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mostly, I think about this in terms of agricultrual data, but will venture to other places if inspired.&lt;/p&gt;&#xA;&lt;h2 id=&#34;teaching-realm&#34;&gt;Teaching Realm:&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve tought various courses in the past including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/about/contact/</link>
+      <pubDate>Mon, 13 Apr 2026 17:29:08 +0000</pubDate>
+      <guid>http://localhost:1313/about/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact me!&lt;/h1&gt;&#xA;&lt;p&gt;The easist way to contact me is through email:&#xA;[lastname].[firstname]@gmail.com&lt;/p&gt;&#xA;&lt;p&gt;Or in person, I&amp;rsquo;m fairly easy to find, you just have to find the person lugging around a hammered dulcimer around town. There&amp;rsquo;s like two of us. But that also requires that you are in town. :-)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

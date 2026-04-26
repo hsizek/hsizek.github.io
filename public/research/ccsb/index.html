@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>concordant Crop Sequence Boundaries | Herbert Sizek</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="The concordant Crop Sequence Boundaries is a field boundary dataset which is an improved version of the Crop Sequence boundaries which relies on the similarity of the crop sequences to merge field fragments together, producing more stable field boundaries through time.
+If you want to try using the dataset, you can download it here. I would not suggest its use for areas which have poor crop detection in the Cropland Data Layer, eveywhere else should be fairly ok. I would suggest to use the field boundaries from Yan and Roy 2016 to confirm your results.">
+    <meta name="generator" content="Hugo 0.160.1">
+    
+    
+    
+      <meta name="robots" content="index, follow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.efe4d852f731d5d1fbb87718387202a97aafd768cdcdaed0662bbe6982e91824.css" >
+
+
+
+  
+    <link rel="stylesheet" href="/css/custom.css">
+  
+
+
+    
+
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://hsizek.github.io/research/ccsb/">
+    
+
+    
+    
+    <meta property="og:url" content="https://hsizek.github.io/research/ccsb/">
+  <meta property="og:site_name" content="Herbert Sizek">
+  <meta property="og:title" content="concordant Crop Sequence Boundaries">
+  <meta property="og:description" content="The concordant Crop Sequence Boundaries is a field boundary dataset which is an improved version of the Crop Sequence boundaries which relies on the similarity of the crop sequences to merge field fragments together, producing more stable field boundaries through time.
+If you want to try using the dataset, you can download it here. I would not suggest its use for areas which have poor crop detection in the Cropland Data Layer, eveywhere else should be fairly ok. I would suggest to use the field boundaries from Yan and Roy 2016 to confirm your results.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="research">
+    <meta property="article:published_time" content="2026-04-25T10:16:49-04:00">
+    <meta property="article:modified_time" content="2026-04-25T10:16:49-04:00">
+
+  <meta itemprop="name" content="concordant Crop Sequence Boundaries">
+  <meta itemprop="description" content="The concordant Crop Sequence Boundaries is a field boundary dataset which is an improved version of the Crop Sequence boundaries which relies on the similarity of the crop sequences to merge field fragments together, producing more stable field boundaries through time.
+If you want to try using the dataset, you can download it here. I would not suggest its use for areas which have poor crop detection in the Cropland Data Layer, eveywhere else should be fairly ok. I would suggest to use the field boundaries from Yan and Roy 2016 to confirm your results.">
+  <meta itemprop="datePublished" content="2026-04-25T10:16:49-04:00">
+  <meta itemprop="dateModified" content="2026-04-25T10:16:49-04:00">
+  <meta itemprop="wordCount" content="266">
+  <meta itemprop="keywords" content="agicuture,land cover">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="concordant Crop Sequence Boundaries">
+  <meta name="twitter:description" content="The concordant Crop Sequence Boundaries is a field boundary dataset which is an improved version of the Crop Sequence boundaries which relies on the similarity of the crop sequences to merge field fragments together, producing more stable field boundaries through time.
+If you want to try using the dataset, you can download it here. I would not suggest its use for areas which have poor crop detection in the Cropland Data Layer, eveywhere else should be fairly ok. I would suggest to use the field boundaries from Yan and Roy 2016 to confirm your results.">
+
+      
+      
+    
+	
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['$$', '$$']],  
+      inlineMath: [['$','$']]                  
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
+
+  </head><body class="ma0 avenir bg-near-white production is-page is-page page-cCSB">
+    
+   
+  
+
+  
+  
+  
+  <header class="cover bg-center" style="background-image: url('https://hsizek.github.io/img/default-cover.jpg');">
+    <div class="bg-black-0">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        <img src="/img/HJS.svg" class="w100 mw5-ns" alt="Herbert Sizek" height="100"/>
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white black-90 no-underline" href="/about/" title="About Me page">
+              About Me
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white black-90 no-underline" href="/books/" title="Books page">
+              Books
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white black-90 no-underline" href="/music/" title="Music page">
+              Music
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white black-90 no-underline" href="/research/" title="Research page">
+              Research
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+      
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+
+  <article class="page-cCSB flex-l mw7 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Research
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">concordant Crop Sequence Boundaries</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2026-04-25T10:16:49-04:00">April 25, 2026</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><p>The concordant Crop Sequence Boundaries is a field boundary dataset which is an improved version of the Crop Sequence boundaries which relies on the similarity of the crop sequences to merge field fragments together, producing more stable field boundaries through time.</p>
+<p>If you want to try using the dataset, you can download it <a href="">here</a>. I would not suggest its use for areas which have poor crop detection in the Cropland Data Layer, eveywhere else should be fairly ok. I would suggest to use the field boundaries from <a href="https://lcluc.umd.edu/metadata/conterminous-united-states-conus-field-extraction">Yan and Roy 2016</a> to confirm your results.</p>
+<h2 id="weird-fields">Weird Fields</h2>
+<p>The largest field in the dataset is in Flordia and is a large orange operation, which covers several square miles.</p>
+<p>In Central Kanas there are a lot of circle irrigation systems which have different interior and exterior crops. These are just cool to see in the data.</p>
+<p>Areas in southern Georgia which are converting to lodgepole pine production have really odd fields, as the CDLs produce highly fragmented pixel productions, leading to very small fields, which are scattered throughout the landscape. This exemplifies issues with detection in the CDL product and how the manifest in the cCSB.</p>
+<p>Thankfully, there are mostly normal fields across the rest of the dataset. :-)</p>
+<h2 id="generating-code">Generating Code</h2>
+<p>The generating code for the dataset is avalible on <a href="https://github.com/hsizek/concordant-crop-sequence-boundaries">github</a>. The code is under a MIT license, but please do share what you do with it!</p>
+<h2 id="contact-me-about-the-dataset">Contact me about the dataset</h2>
+<p>Feel free to contact me about the dataset, whether it is your particular use case, questions about the data quality, or how the dataset is generated.</p>
+<ul class="pa0">
+  
+</ul>
+
+      
+    </div></article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://hsizek.github.io/" >
+    &copy;  Herbert Sizek 2026 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

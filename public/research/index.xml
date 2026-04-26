@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Herbert Sizek</title>
+    <link>https://hsizek.github.io/research/</link>
+    <description>Recent content in Research on Herbert Sizek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Herbert Sizek</copyright>
+    <lastBuildDate>Sat, 25 Apr 2026 10:16:49 -0400</lastBuildDate>
+    <atom:link href="https://hsizek.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>concordant Crop Sequence Boundaries</title>
+      <link>https://hsizek.github.io/research/ccsb/</link>
+      <pubDate>Sat, 25 Apr 2026 10:16:49 -0400</pubDate>
+      <guid>https://hsizek.github.io/research/ccsb/</guid>
+      <description>&lt;p&gt;The concordant Crop Sequence Boundaries is a field boundary dataset which is an improved version of the Crop Sequence boundaries which relies on the similarity of the crop sequences to merge field fragments together, producing more stable field boundaries through time.&lt;/p&gt;&#xA;&lt;p&gt;If you want to try using the dataset, you can download it &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;. I would not suggest its use for areas which have poor crop detection in the Cropland Data Layer, eveywhere else should be fairly ok. I would suggest to use the field boundaries from &lt;a href=&#34;https://lcluc.umd.edu/metadata/conterminous-united-states-conus-field-extraction&#34;&gt;Yan and Roy 2016&lt;/a&gt; to confirm your results.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cyclic Crop Rotations</title>
+      <link>https://hsizek.github.io/research/crop-rotation/</link>
+      <pubDate>Sat, 25 Apr 2026 10:16:49 -0400</pubDate>
+      <guid>https://hsizek.github.io/research/crop-rotation/</guid>
+      <description>&lt;p&gt;One of the difficulties of doing crop rotation analysis is that you&amp;rsquo;re given a crop sequence that you need to interpret as a crop rotation. Perhaps the crop rotation changes through time and perhaps even changes the length of the crop rotation. People use a plethora of different methods to analyze crop sequences which I add my tool to.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

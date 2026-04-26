@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Herbert Sizek</title>
+    <link>https://hsizek.github.io/books/</link>
+    <description>Recent content in Books on Herbert Sizek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Herbert Sizek</copyright>
+    <lastBuildDate>Thu, 26 Feb 2026 11:29:48 -0400</lastBuildDate>
+    <atom:link href="https://hsizek.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kokun: The Girl From the West by Nahoko Uehashi</title>
+      <link>https://hsizek.github.io/books/kokun/</link>
+      <pubDate>Thu, 26 Feb 2026 11:29:48 -0400</pubDate>
+      <guid>https://hsizek.github.io/books/kokun/</guid>
+      <description>&lt;p&gt;Uehashi provides an analysis of empire and agriculture in this fantasy land, asking questions which are similar to those posed by &lt;a href=&#34;https://hsizek.github.io/books/againstthegrain/&#34;&gt;James Scott in Against the Grain&lt;/a&gt;. The questions of the state and their role in agrarian systems and enforcing specific agrarian systems above others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Against the Grain by James Scott</title>
+      <link>https://hsizek.github.io/books/againstthegrain/</link>
+      <pubDate>Sun, 26 May 2024 11:33:16 -0400</pubDate>
+      <guid>https://hsizek.github.io/books/againstthegrain/</guid>
+      <description>&lt;p&gt;James Scott gives a foray into a somewhat speculative agriculture of pre-history of Europe and West Asia. The driving premise is that the &amp;lsquo;pre-historical&amp;rsquo; agriculture was fairly ecologically stable and widely practiced at the same time as historical agricultural systems. Because the institutions of cities and early states allowed for maintance of records, our knowledge of historical agriculural systems is biased to preserving agricultural methods which supported cities and states.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
