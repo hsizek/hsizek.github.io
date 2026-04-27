@@ -23,27 +23,38 @@ sectionPagesMenu = 'main'
     featured_image = "/img/default-cover.jpg"
     mainSections = ["research","books"]
 
+[params.ananke.social]
+[params.ananke.social.networks.github]
+label = "GitHub"
+profile = "https://github.com/%s"
+icon = "github"
+
+[params.ananke.social.networks.linkedin]
+label = "LinkedIn"
+profile = "https://linkedin.com/in/%s"
+icon = "linkedin"
+
+[params.ananke.social.networks.email]
+label = "Email"
+profile = "mailto:%s"
+icon = "envelope"
+
+[params.ananke.social.follow]
+new_window_icon = false
+networks = ["email", "github", "linkedin"]
+
+[params.ananke.social.github]
+  username = "hsizek"
+
+[params.ananke.social.linkedin]
+  username = "herbert-sizek-6418a8125"
+
+[params.ananke.social.email]
+username = "sizek.herbert@gmail.com"
+subject = "Contact from Website"
+
+
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
-[ananke.social.follow]
-new_window_icon = false
-networks = [
-  "github",
-  "linkedin"
-]
-
-[ananke.social.share]
-icons = true
-sharetext = true
-networks = [
-  "github",
-  "linkedin"
-]
-
-[ananke.social.github]
-    username = "hsizek"
-
-[ananke.social.linkedin]
-    username = "herbert-sizek-6418a8125"

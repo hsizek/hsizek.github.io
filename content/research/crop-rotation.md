@@ -2,7 +2,7 @@
 date = '2026-04-25T10:16:49-04:00'
 draft = false
 title = 'Cyclic Crop Rotations'
-keywords = ['agicuture', 'crop', 'crop rotation']
+keywords = ['agriculture', 'crop', 'crop rotation']
 
 +++
 One of the difficulties of doing crop rotation analysis is that you're given a crop sequence that you need to interpret as a crop rotation. Perhaps the crop rotation changes through time and perhaps even changes the length of the crop rotation. People use a plethora of different methods to analyze crop sequences which I add my tool to. 
@@ -11,9 +11,9 @@ One of the difficulties of doing crop rotation analysis is that you're given a c
 Crop rotations can be superimposed upon crop sequences to determine a potential realization of what crop rotation is used through time. 
 
 ## Defining crop rotations
-Crop rotations can be framed as a mathematical object. We could have an empty rotation $\langle \rangle$ or one with a crop in it $\langle 0 \rangle$ or multiple crops in it $\langle 0,1,1 \rangle$. We can define the an additive operation $\langle 0 \rangle+\langle 1 \rangle=\langle 0,1 \rangle$. They are idemnopotent. The rotation $\langle 1,1 \rangle$ is the same as $\langle 1 \rangle$. But they are not associative, $\langle 0,1,1 \rangle = \langle 0 \rangle + \langle 1 \rangle + \langle 1 \rangle \neq \langle 0 \rangle + (\langle 1 \rangle + \langle 1 \rangle) = \langle 0,1 \rangle$ is not the same as $\langle 0,1 \rangle$, nor commutative $\langle 0 \rangle + \langle 1 \rangle + \langle 2 \rangle \neq \langle 0 \rangle + \langle 2 \rangle + \langle 1 \rangle$. But they can be bijected, $\sigma(\langle 0,1 \rangle) = \langle 1,0 \rangle$. Multiplication is not really a valid operator, nor is division, inverses aren't well defined. 
+Crop rotations can be framed as a mathematical object. We could have an empty rotation $\langle \rangle$ or one with a crop in it $\langle 0 \rangle$ or multiple crops in it $\langle 0,1,1 \rangle$. We can define the an additive operation $\langle 0 \rangle+\langle 1 \rangle=\langle 0,1 \rangle$. They are idempotent. The rotation $\langle 1,1 \rangle$ is the same as $\langle 1 \rangle$. But they are not associative, $\langle 0,1,1 \rangle = \langle 0 \rangle + \langle 1 \rangle + \langle 1 \rangle \neq \langle 0 \rangle + (\langle 1 \rangle + \langle 1 \rangle) = \langle 0,1 \rangle$ is not the same as $\langle 0,1 \rangle$, nor commutative $\langle 0 \rangle + \langle 1 \rangle + \langle 2 \rangle \neq \langle 0 \rangle + \langle 2 \rangle + \langle 1 \rangle$. But they can be bijected, $\sigma(\langle 0,1 \rangle) = \langle 1,0 \rangle$. Multiplication is not really a valid operator, nor is division, inverses aren't well defined. 
 
-This is all fine and dandy, but it doesn't relate to crop sequences that easily. We could instantiate repetitions of multiple crop rotations concated together to form crop sequences. But how do you go from crop sequences (i.e. what is observed) to crop rotations. 
+This is all fine and dandy, but it doesn't relate to crop sequences that easily. We could instantiate repetitions of multiple crop rotations concatenated together to form crop sequences. But how do you go from crop sequences (i.e. what is observed) to crop rotations. 
 
 Ideally, the process to go from crop sequence to crop rotations should be deterministic, so that the results are consistent between different crop sequences and there aren't biases based on crop composition. There are two ways of doing this. 
 

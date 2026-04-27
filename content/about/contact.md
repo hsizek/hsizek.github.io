@@ -6,7 +6,7 @@ menus = ['footer']
 
 # Contact me! 
 
-The easist way to contact me is through email:
+The easiest way to contact me is through email:
     [lastname].[firstname]@gmail.com
 
 Or in person, I'm fairly easy to find, you just have to find the person lugging around a hammered dulcimer around town. There's like two of us. But that also requires that you are in town. :-)
