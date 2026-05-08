@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hsizek.github.io/music/irishslowjam/</loc>
+    <lastmod>2026-05-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hsizek.github.io/music/jigs/</loc>
     <lastmod>2026-04-26T10:57:10-04:00</lastmod>
   </url><url>
@@ -29,8 +32,14 @@
     <loc>https://hsizek.github.io/</loc>
     <lastmod>2026-04-13T17:29:08+00:00</lastmod>
   </url><url>
+    <loc>https://hsizek.github.io/books/vulcanshammer/</loc>
+    <lastmod>2026-03-01T11:29:48-04:00</lastmod>
+  </url><url>
     <loc>https://hsizek.github.io/books/kokun/</loc>
     <lastmod>2026-02-26T11:29:48-04:00</lastmod>
+  </url><url>
+    <loc>https://hsizek.github.io/books/deadsouls/</loc>
+    <lastmod>2026-01-15T11:29:48-04:00</lastmod>
   </url><url>
     <loc>https://hsizek.github.io/books/againstthegrain/</loc>
     <lastmod>2024-05-26T11:33:16-04:00</lastmod>

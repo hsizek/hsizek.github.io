@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Herbert Sizek</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 10:57:10 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://hsizek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bloomington Irish Slow Jam</title>
+      <link>https://hsizek.github.io/music/irishslowjam/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://hsizek.github.io/music/irishslowjam/</guid>
+      <description>&lt;p&gt;Tunes we&amp;rsquo;ve played at the slow jam so far.&lt;/p&gt;&#xA;&lt;h3 id=&#34;jigs&#34;&gt;Jigs&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Slieve Russell*&lt;/li&gt;&#xA;&lt;li&gt;Kesh Jig&lt;/li&gt;&#xA;&lt;li&gt;Top of Cork Road&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Road to Lisdoonvarna&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;waltz&#34;&gt;Waltz&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inisheer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;next-to-learn&#34;&gt;Next to learn&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Black Rogue&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;*- indicates completely taught tunes&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Jigs</title>
       <link>https://hsizek.github.io/music/jigs/</link>
@@ -45,11 +52,25 @@
       <description>&lt;h2 id=&#34;goodday&#34;&gt;Goodday.&lt;/h2&gt;&#xA;&lt;p&gt;You have stumbled upon the website of Herbert.&lt;/p&gt;&#xA;&lt;p&gt;I do things.&lt;/p&gt;&#xA;&lt;h2 id=&#34;research-realm&#34;&gt;Research Realm:&lt;/h2&gt;&#xA;&lt;p&gt;I do some different pieces of research. Two questions I think about regularly are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How do we improve data quality and data aggregation in Agricultural settings?&lt;/li&gt;&#xA;&lt;li&gt;How do we model discrete actions and behaviors discretely?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mostly, I think about this in terms of agricultural data, but will venture to other places if inspired.&lt;/p&gt;&#xA;&lt;h2 id=&#34;teaching-realm&#34;&gt;Teaching Realm:&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve taught various courses in the past including:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Vulcan&#39;s Hammer by Philip K. Dick</title>
+      <link>https://hsizek.github.io/books/vulcanshammer/</link>
+      <pubDate>Sun, 01 Mar 2026 11:29:48 -0400</pubDate>
+      <guid>https://hsizek.github.io/books/vulcanshammer/</guid>
+      <description>&lt;p&gt;A centralized computer runs humanity after a decimating global war.&lt;/p&gt;&#xA;&lt;p&gt;With this premise, Dick interrogates the effectiveness of withholding information from analysis. Direct information, such as assassinations or riots, should be correlated with economic and social aggregations of data. If the correlations are known beforehand, then the withholding of data leads to a questioning of the reliability of the datasource rather than the proper masking of the sensitive data.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Kokun: The Girl From the West by Nahoko Uehashi</title>
       <link>https://hsizek.github.io/books/kokun/</link>
       <pubDate>Thu, 26 Feb 2026 11:29:48 -0400</pubDate>
       <guid>https://hsizek.github.io/books/kokun/</guid>
       <description>&lt;p&gt;Uehashi provides an analysis of empire and agriculture in this fantasy land, asking questions which are similar to those posed by &lt;a href=&#34;https://hsizek.github.io/books/againstthegrain/&#34;&gt;James Scott in Against the Grain&lt;/a&gt;. The questions of the state and their role in agrarian systems and enforcing specific agrarian systems above others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dead Souls By Nikolai Gogol</title>
+      <link>https://hsizek.github.io/books/deadsouls/</link>
+      <pubDate>Thu, 15 Jan 2026 11:29:48 -0400</pubDate>
+      <guid>https://hsizek.github.io/books/deadsouls/</guid>
+      <description>&lt;p&gt;The title says it all&amp;hellip; Well along with the context that Gogol is critiquing the serfdom of the Russian Empire and the legal and financial structures that lead to the emancipation of the surfs. If you want to know more about this, just read the book, it&amp;rsquo;s a political satire, so it is fun and lighthearted.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Against the Grain by James Scott</title>
