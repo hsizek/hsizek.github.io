@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Herbert Sizek</copyright>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:29:48 -0400</lastBuildDate>
     <atom:link href="https://hsizek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Children of Time by Adrian Czajkowski</title>
+      <link>https://hsizek.github.io/books/childrenoftime/</link>
+      <pubDate>Tue, 18 Aug 2026 11:29:48 -0400</pubDate>
+      <guid>https://hsizek.github.io/books/childrenoftime/</guid>
+      <description>&lt;p&gt;This Czajkowski (Tcaikovsky) is an easy, but long read. Insightful towards how societies evolve and pass knowledge through time. The power in this book is to pose alternatives, just as most science fiction does. There is the standard commentary about how ecological depletion and damage is the scourge that mars this earth, and that systems optimized for one thing, whether it be humans or ants, are not going to result in a happy conclusion. The less standard argument is found in the title, &lt;strong&gt;the Children of Time&lt;/strong&gt;. What does it mean to move through time, and how does moving through time alter the course of events.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Magnifica Humanitas by Pope Leo XIV</title>
+      <link>https://hsizek.github.io/books/leoaiencyclical/</link>
+      <pubDate>Mon, 01 Jun 2026 11:29:48 -0400</pubDate>
+      <guid>https://hsizek.github.io/books/leoaiencyclical/</guid>
+      <description>&lt;p&gt;The media has dubbed this to be the AI encyclical, but &lt;a href=&#34;https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html&#34;&gt;Magnifica Humanitas&lt;/a&gt; is more so a porting of &lt;a href=&#34;https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html&#34;&gt;Rerum Novarum&lt;/a&gt; into the era of automation via digital computers and a lesser extent LLMs (generative AI).&lt;/p&gt;&#xA;&lt;p&gt;Referencing Benedict XVI, Leo XIV states the capacity of the state is degraded by the capitalization of the market, and thus the ability of the state to address social problems is degraded by increase in privatization of markets. The one aspect which Leo XIV seemed positive about state function was the role in maintaining educational institutions, with an explicit mention of the role of government in education.&#xA;Other classical functions of state, particularly regulation of markets, were stated as functions of a vague, &amp;lsquo;community&amp;rsquo;. This implied that the current operations of states are not promoting social objectives of the Church writ large, with the social objective primarily focused on the maintenance of communities.  Leo XIV does not have the highest faith in the current institutions which compromise modern states to fulfill the demands of the current moment, particularly with the privatization of social functions by the market and the increasing capitalization of value.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bloomington Irish Slow Jam</title>
       <link>https://hsizek.github.io/music/irishslowjam/</link>
@@ -78,6 +92,13 @@
       <pubDate>Sun, 26 May 2024 11:33:16 -0400</pubDate>
       <guid>https://hsizek.github.io/books/againstthegrain/</guid>
       <description>&lt;p&gt;James Scott gives a foray into a somewhat speculative agriculture of pre-history of Europe and West Asia. The driving premise is that the &amp;lsquo;pre-historical&amp;rsquo; agriculture was fairly ecologically stable and widely practiced at the same time as historical agricultural systems. Because the institutions of cities and early states allowed for maintenance of records, our knowledge of historical agricultural systems is biased to preserving agricultural methods which supported cities and states.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Death and Life of the Great Lakes by Dan Egan</title>
+      <link>https://hsizek.github.io/books/deathandlife/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hsizek.github.io/books/deathandlife/</guid>
+      <description>&lt;p&gt;Invasive species are often portrayed as outside of the ecosystem, as something that unilaterally harms the ecosystem. Dan Egan tries to approach discussing invasive species as a story of history, both human and natural, and evaluate the impacts of invasive species in the great lakes through time and how the role of invasive species changes through time.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
