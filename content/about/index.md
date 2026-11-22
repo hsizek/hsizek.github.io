@@ -27,4 +27,4 @@ I have hot takes on pedagogy and how to encourage students to engage with materi
 ## Hammering Realm: 
 I play the hammered dulcimer. I am not professional, but I'm also not just futzing around. I primarily am interested in Irish dance music (session tunes) and old-time with a focus in Michigan tunes. 
 
-I play with two different tunings. The "modern" tuning, with the base bridge a fourth lower, and the Illinois chorded tuning, with the marked base bridge being an octave below and the two unmarked above the third and fifth above that. This is what Bill Robinson plays with. I would like to get a Webster at some point, so I can learn octave tuning and be confused all the time on how to use the bass bridge.
+I play with the Illinois chorded tuning. In this tuning, the marked base bridge is an octave below and the two unmarked above the third and fifth above that. This is what Bill Robinson plays with. In fact, I have one of Bill's instruments and started learning on an instrument by the same maker as the first instrument that Bill played on. 

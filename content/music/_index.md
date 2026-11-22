@@ -6,7 +6,7 @@ date = 2026-04-13 17:29:08
 I play the hammered dulcimer. I am not professional, but I'm also not just futzing around. I primarily am interested in Irish dance music (session tunes) and old-time with a focus in Michigan tunes. 
 
 ### All the Tunes
-I'm terrible at remembering sets and tune names, so I have the tunes which I know and the tunes which go together.
+I'm terrible at remembering sets and tune names, so I have the tunes which I know here with a loose itemization of which are on rotation (I can play off the cuff) and those that have faded away (I used to be able to play them off the cuff).
 
 <!-- This is organized by tune type, with a shorthand notation for the first few notes of the tunes. 
 

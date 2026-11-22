@@ -1,6 +1,7 @@
 +++
 date = '2026-05-08'
 title = 'Bloomington Irish Slow Jam'
+draft = true
 +++
 
 Tunes we've played at the slow jam so far. 
